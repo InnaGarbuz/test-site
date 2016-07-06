@@ -1,0 +1,26 @@
+body {
+  background: #fff;
+  color: #000; }
+
+a {
+  color: #d1222a; }
+
+p {
+  color: #fff; }
+
+h4 {
+  color: #fff; }
+
+.right p {
+  letter-spacing: 2px; }
+
+.header-text {
+  color: #fff; }
+  .header-text h4 {
+    color: #4c4c4c; }
+  .header-text span {
+    color: #d1222a; }
+
+.main_footer {
+  background: #373737;
+  color: #656565; }
